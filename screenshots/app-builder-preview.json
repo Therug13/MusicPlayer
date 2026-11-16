@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Side A",
+      "hasCanvas": false,
+      "bodyTextLen": 643,
+      "bodyTextHash": "7f43c12feb4684253672976928914ae480734a0bc16726b70a90c54d317ee56b",
+      "bodyTextPrefix": "Side A Files stay on your device A PRIVATE LISTENING ROOM Same s",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Side A",
+      "hasCanvas": false,
+      "bodyTextLen": 643,
+      "bodyTextHash": "7f43c12feb4684253672976928914ae480734a0bc16726b70a90c54d317ee56b",
+      "bodyTextPrefix": "Side A Files stay on your device A PRIVATE LISTENING ROOM Same s",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
